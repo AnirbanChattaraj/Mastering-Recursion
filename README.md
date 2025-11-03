@@ -8,8 +8,6 @@ Each exercise progresses in complexity — helping you move from basic function 
 
 🧩 This isn’t just a set of problems — it’s a journey to master the art of thinking recursively.
 
-🔹 Level 1 — Core Logic Building (1–5)
-
 Lay the foundation by exploring how recursive functions call themselves and build up or unwind.
 
 🖨️ Print numbers from 1 to N
@@ -22,8 +20,6 @@ Lay the foundation by exploring how recursive functions call themselves and buil
 
 🔢 Find the sum of digits of a number
 
-🔹 Level 2 — Understanding Base Case & Flow (6–10)
-
 Develop clarity on base cases, stack flow, and recursive state transitions.
 
 ✳️ Find the product of digits of a number
@@ -35,8 +31,6 @@ Develop clarity on base cases, stack flow, and recursive state transitions.
 💫 Check if a number is a palindrome
 
 ⚡ Find the power of a number (xⁿ)
-
-🔹 Level 3 — Recursive Logic in Action (11–16)
 
 Apply recursion creatively to solve mathematically rich and logical problems.
 
@@ -71,6 +65,7 @@ Component	Description
 Language	C
 Paradigm	Recursive Programming
 Focus	Logic Building, Mathematical Thinking, Code Elegance
+
 🌟 Author
 
 👨‍💻 Anirban Chattaraj
